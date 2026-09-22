@@ -67,12 +67,12 @@ footer {
     text-align: center;
  }
 
- #carros-proximos h2 {
+ #servicos-proximos h2 {
     margin-top: 30px;
     font-size: 30px;
 }
 
-#carros {
+#servicos {
     margin-top: 10px;
     display: flex;
     justify-content: center;
@@ -116,4 +116,9 @@ td img {
 
 #objetivo {
     margin-bottom: 20px;
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
 }
